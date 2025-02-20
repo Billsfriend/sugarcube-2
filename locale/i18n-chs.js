@@ -59,7 +59,7 @@
 
 	l10nStrings.textCancel = '取消';
 
-	l10nStrings.textClear = '清除';
+	l10nStrings.textClear = '清空';
 
 	l10nStrings.textClose = '关闭';
 
